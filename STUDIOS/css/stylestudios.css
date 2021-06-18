@@ -1,0 +1,228 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background: #000000;
+    width: 100%;
+    clear: both;
+    content:'';
+    display: table;
+  }
+  
+  .menu img{
+    width: 800px;
+    margin: 500 auto;
+    width: 150px;
+    height:100px;
+    float: left;
+    padding: 8px;
+    
+  }
+
+  nav{
+    width: 70%;
+    height: 70px;
+    /*background: olive;*/
+    float: left;
+    text-align: right;
+    padding-top: 24px;
+  }
+  nav ul li{
+    display: inline;
+  }
+  nav ul li a{
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 15px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    font-family: Palatino Linotype;
+    line-height: 150%;
+    position: relative;
+    left: 5em;
+  }
+  nav ul li a:hover{
+    color: rgb(34, 171, 206);
+  }
+
+  h1{
+    color: #fff;
+    font-family: paladins;
+    font-size: 3em;
+    text-align: left;
+    margin-top: -4.1%;
+    margin-left: 3.5em;
+  }
+
+  h2{
+    color: #2b60f6;
+    font-family: paladins;
+    font-size: 3em;
+    text-align: left;
+    margin-top: -3%;
+    margin-left: 8.4em;
+  }
+
+  .fondoestudio1 img{
+      position: absolute;
+      margin-top: 2%;
+      margin-left: 1.5%;
+      width: 1800px;
+      height: 250px;
+  }
+
+  .fondoestudio2 img{
+    position: absolute;
+    margin-top: 18%;
+    margin-left: 1.5%;
+    width: 1800px;
+    height: 250px;
+}
+
+.fondoestudio3 img{
+    position: absolute;
+    margin-top: 34%;
+    margin-left: 1.5%;
+    width: 1800px;
+    height: 250px;
+}
+
+.fondoestudio4 img{
+    position: absolute;
+    margin-top: 50%;
+    margin-left: 1.5%;
+    width: 1800px;
+    height: 250px;
+}
+
+.imagenestudio1 img{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 3%;
+    width: 1400px;
+    height: 210px;
+}
+
+.imagenestudio2 img{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 19%;
+    width: 1400px;
+    height: 210px;
+}
+
+.imagenestudio3 img{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 35%;
+    width: 1400px;
+    height: 210px;
+}
+
+.imagenestudio4 img{
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 51%;
+    width: 1400px;
+    height: 210px;
+}
+
+.logo1 img{
+    position: absolute;
+    margin-top: 2.5%;
+    margin-left: 2%;
+    height: 100px;
+    width: 100px;
+}
+
+.logo2 img{
+    position: absolute;
+    margin-top: 18.5%;
+    margin-left: 2%;
+    height: 100px;
+    width: 100px;
+}
+
+.logo3 img{
+    position: absolute;
+    margin-top: 34.5%;
+    margin-left: 2%;
+    height: 100px;
+    width: 100px;
+}
+
+.logo4 img{
+    position: absolute;
+    margin-top: 50.5%;
+    margin-left: 2%;
+    height: 100px;
+    width: 100px;
+}
+
+.titulo1 a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6em;
+    position: absolute;
+    text-decoration: none;
+    margin-left: 7.7%;
+    margin-top: 2.5%;
+}
+
+.titulo1 a:hover{
+    color: rgb(28, 113, 224);
+}
+
+.titulo2 a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6em;
+    position: absolute;
+    text-decoration: none;
+    margin-left: 7.7%;
+    margin-top: 18.5%;
+}
+
+.titulo2 a:hover{
+    color: rgb(28, 113, 224);
+}
+
+.titulo3 a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6em;
+    position: absolute;
+    text-decoration: none;
+    margin-left: 7.7%;
+    margin-top: 34.5%;
+}
+
+.titulo3 a:hover{
+    color: rgb(28, 113, 224);
+}
+
+.titulo4 a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.6em;
+    position: absolute;
+    text-decoration: none;
+    margin-left: 7.7%;
+    margin-top: 50.5%;
+}
+
+.titulo4 a:hover{
+    color: rgb(28, 113, 224);
+}
+

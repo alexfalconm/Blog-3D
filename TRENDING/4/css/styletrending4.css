@@ -1,0 +1,167 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(../img/fondo2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background: #000000;
+    width: 100%;
+    clear: both;
+    content:'';
+    display: table;
+  }
+  
+  .menu img{
+    width: 800px;
+    margin: 500 auto;
+    width: 150px;
+    height:100px;
+    float: left;
+    padding: 8px;
+    
+  }
+
+  nav{
+    width: 70%;
+    height: 70px;
+    /*background: olive;*/
+    float: left;
+    text-align: right;
+    padding-top: 24px;
+  }
+  nav ul li{
+    display: inline;
+  }
+  nav ul li a{
+    color: #fff;
+    font-size: 30px;
+    text-decoration: none;
+    padding-left: 15px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    font-family: Palatino Linotype;
+    line-height: 150%;
+    position: relative;
+    left: 5em;
+  }
+  nav ul li a:hover{
+    color: rgb(34, 171, 206);
+  }
+
+  h1{
+    color: #fff;
+    font-family: paladins;
+    font-size: 3em;
+    text-align: left;
+    margin-top: -4.1%;
+    margin-left: 3.5em;
+  }
+
+  h2{
+    color: #2b60f6;
+    font-family: paladins;
+    font-size: 3em;
+    text-align: left;
+    margin-top: -3%;
+    margin-left: 8.4em;
+  }
+
+  h3{
+      color: rgb(255, 255, 255);
+      font-size: 4em;
+      position: absolute;
+      margin-top: 2%;
+      margin-left: 670px;
+  }
+
+  .parrafo{
+      position: absolute;
+      display: table;
+      background: rgb(39, 39, 39);
+      height: 350px;
+      margin: 2rem auto;
+      text-align: left;
+      margin-left: 350px;
+      width: 1200px;
+  }
+
+  .parrafo p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: white;
+      padding-top: 45px;
+      display: table-cell;
+      vertical-align: middle;
+      font-size: 1em;
+      margin-left: 50px;
+      text-align: center;
+  }
+
+  .imagen1 img{
+    position: absolute;
+    width: 800px;
+    margin-top: 22%;
+    margin-left: 30%;
+  }
+
+  .logopersona img{
+    position: absolute;
+    width: 170px;
+    margin-top: 2%;
+    margin-left: 4.5%;
+  }
+
+  h4{
+    color: rgb(255, 255, 255);
+    font-size: 3em;
+    position: absolute;
+    margin-top: 11%;
+    margin-left: 1.2%;
+}
+
+  h5{
+    color: white;
+    font-size: 1.2em;
+    position: absolute;
+    margin-top: 14%;
+    margin-left: 2.5%;
+  }
+
+  .paginausuario a{
+    color: rgb(21, 169, 228);
+    font-size: 1.5em;
+    position: absolute;
+    text-decoration: none;
+    margin-top: 17%;
+    margin-left: 1%;
+  }
+
+  .ubicacion img{
+    position: absolute;
+    width: 24px;
+    margin-top: 15.2%;
+    margin-left: 0.9%;
+  }
+
+  .fondoperfil img{
+    position: absolute;
+    width: 18.3%;
+    height: 31%;
+    margin-top: 1.7%;
+    margin-left: 0.4%;
+  }
+
+  .fondoparaimagenes img{
+    position: absolute;
+    width: 1200px;
+    height: 755px;
+    margin-top: 21.4%;
+    margin-left: 350px;
+  }
